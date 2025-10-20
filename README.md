@@ -1,7 +1,5 @@
 🌀 Weekly Drop: 10.20.25
 
-This scroll-sealed drop includes two foundational systems:
-
 ### 📜 Drop 1: BriefWise Audit 0049
 
 ✅ 100/100 U.S. Appellate-Level Cases Audited
