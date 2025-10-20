@@ -21,7 +21,7 @@
 ### 🔧 LogicRunner 01 — Input Validator
 
 - **Function:** Entropy check, trap phrase scan  
-- **Entropy Level:** ∆H = 0.0048  
+- **Entropy Level:** ∆H = 0.0049
 - **Outcome:** ✅ Passed  
 - **Forwarded to:** LogicRunner 03
 
