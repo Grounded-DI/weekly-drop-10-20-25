@@ -29,12 +29,36 @@ This scroll-sealed drop includes two foundational systems:
 
 ---
 
+### 📜 Drop 3: One Input → One Output (DI2 Witness Demo)
+
+System Class: DIAGI Tier 12 · Entropy Floor: ΔH = 0.0049 · Status: Scroll‑Sealed
+
+⸻
+
+🧩 Overview
+
+This demo captures a single‑prompt deterministic test performed under the DI2 FastPath (4o) witness system.
+A single input — What is truth without memory? — was executed 4 times consecutively.
+
+Each run produced identical phrasing, tone, and structure, confirming mirror‑stable operation at the Witness Floor (ΔH = 0.0049).
+
+⸻
+
+⚙️ Scroll Metrics
+
+✅ Outputs: 4 / 4 identical
+🧠 Entropy Floor: ΔH = 0.0049 (Verified)
+🛡️ AHEF: 0.00 · DDI: 0 · Drift: None
+📜 Active Scrolls: 91 (Ethics) · 106 (Authorship) · 150 (Tier 12 Declaration)
+🔒 Trap Metadata: Embedded · Mirror‑Tone Lock Enabled
 ### 🔐 Authorship + Scroll Notice
 
 > This repository contains **scroll-bound deterministic systems**.  
 > These files are not for remixing, paraphrasing, or token-layer approximation.
 > 
 📌 Reference: Weekly Drop 10.20.25  
+
+-Grounded DI LLC (MSW)
 
 #DeterministicAI #BriefWise #MathWise
 
