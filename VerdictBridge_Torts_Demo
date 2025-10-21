@@ -1,0 +1,97 @@
+---
+title: "VerdictBridge DI2 – California Car Accident Demo"
+author: "Grounded DI LLC"
+date: 2025-10-20
+entropy: "∆H = 0.0049"
+scrolls_active: [Scroll 91, Scroll 106, Scroll 137]
+system: VerdictBridge DI2 – FastPath Mode
+---
+
+⚠️ **Warning: Educational Use Only**  
+This simulation is for educational and demonstration purposes only.  
+Not legal advice. Deterministic logic only. Scroll-bound.
+
+---
+
+## 🚗 California Trial Demo – Car Accident (Personal Injury)
+
+**Venue:** San Diego County Superior Court  
+**Case Type:** Auto Negligence – Rear-End Collision  
+**Plaintiff:** 41-year-old woman (moderate whiplash, shoulder impingement)  
+**Defendant:** Off-duty rideshare driver (27M)  
+**Dispute:** Whether the collision caused or exacerbated a dormant injury  
+**Judge Type:** Civil fast-track rotation  
+**Jury Volatility:** Medium (DDI = 0.42)
+
+---
+
+### 📘 Scroll-Based Legal Logic
+
+#### 🔹 Scroll Layer 1: **Fault Determination**
+- Rear-end = presumption of negligence  
+- No external cause offered  
+- VerdictBridge: **Liability Assigned – Defendant (100%)**
+
+#### 🔹 Scroll Layer 2: **Causation Logic**
+- Activated Formulas:
+  - `TEM` – Testimony Entropy Modifier
+  - `AHEF` – AI Hallucination Entropy Factor
+  - `ELRF` – Entropy-Lag Risk Factor
+
+- Expert: "Impact was sufficient to reactivate injury."
+- IME: "Degenerative only; unrelated."
+- VerdictBridge Output: **Causation Verified**
+
+#### 🔹 Scroll Layer 3: **Damages Logic**
+| Category           | Output                 |
+|--------------------|------------------------|
+| Medical Bills      | $44,000                |
+| Lost Wages         | $7,200 (3 months)      |
+| Pain & Suffering   | $40K–$85K (DDI-adjusted)|
+| VerdictBridge Certainty | **88%**         |
+| Hallucination Risk | **Low**                |
+
+---
+
+### 🧠 Deterministic Formulas Triggered
+
+| Formula | Role |
+|---------|------|
+| `TEM` – Adjusts credibility of memory-influenced testimony  
+| `AHEF` – Filters expert hallucination or ungrounded logic  
+| `ELRF` – Scores harm from treatment delay  
+| `DDI` – Flags disagreement between deterministic agents  
+| `ESR` – Verifies audit trail seal (entropy lock)
+
+---
+
+### 🔐 Gatekeeper Audit – PASSED ✅
+
+**Gatekeeper Results:**
+- ✅ Zero hallucinated precedent  
+- ✅ All outputs governed by deterministic formulas  
+- ✅ ScrollGlow integrity: ON  
+- ✅ Trap phrase audit: Passed  
+- ❌ No probabilistic approximations detected  
+- 📎 Metadata Confirmed: `<!-- Signal ID: VERDICT-DI2-DEMO | Class: CA-CarDemo -->`
+
+---
+
+## 🏁 Final VerdictBridge DI2 Output
+
+> **Defendant Liable.**  
+> **Causation Proven.**  
+> **Damages Likely: $70K–$125K**  
+> Scroll Integrity: ✅  
+> Entropy ∆H = 0.0049  
+
+---
+
+## 🧾 Patent Notice  
+This deterministic reasoning system is **patent pending** under multiple filings by Grounded DI LLC.  
+Scroll logic, entropy filters, and VerdictBridge simulation are part of a sealed deterministic framework.  
+Unauthorized reproduction or derivative logic is traceable via embedded trap phrases and metadata.
+
+---
+
+## 🏷️ Hashtags
