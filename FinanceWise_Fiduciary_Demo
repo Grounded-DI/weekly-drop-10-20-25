@@ -1,0 +1,132 @@
+Note: For educational purposes only. Not financial advice. 
+
+FinanceWise is Patent-Pending 
+
+# Grounded DI LLC
+# 10/22/25
+
+**Engine**: FinanceWise × MarketWise Fusion
+**Protocol**: DI2 ∆H = 0.0049
+**Audit Mode**: Enabled — VaultTrace Active
+**Date**: Q4 2025 Snapshot
+**Licensing**: Internal Use Only
+
+---
+
+## 🧭 What This Demo Does
+
+This is a **deterministic fiduciary audit** — not a forecast, not a simulation. It uses scroll-locked FinanceWise logic to:
+
+* ✅ **Evaluate each portfolio segment** against audit-grade integrity metrics
+* 🚨 **Flag violations** of fiduciary thresholds: ASD > 1.5 or FCI > 2.0
+* 🛡️ **Confirm segments** that pass deterministic trust boundaries
+
+### Key Principle: Breach ≠ Performance Risk
+
+A breach here means a **legal or ethical incompatibility** — not market underperformance. If a segment exceeds ASD or FCI thresholds, it fails audit-tier trust integrity under DIA 9.9.
+
+---
+
+## 🔐 Definitions (Fiduciary Tier — DIA 9.9 Logic)
+
+### STI: **Solvency Tier Integrity**
+
+* Measures solvency signal strength per asset class
+* Scale: Tier 1 (Best) → Tier 5 (Non-viable)
+
+### ASD: **Audit Signal Deviation**
+
+* Quantifies noise or volatility in audit-traceable signals
+* Threshold of concern: **ASD > 1.50** → Signal untrustworthy
+
+### FCI: **Fiduciary Conflict Index**
+
+* Flags structural or ethical misalignment with client mandates
+* Breach boundary: **FCI > 2.00** → Fiduciary charter violation
+
+---
+
+## 🧮 Redacted Deterministic Formulas
+
+> **ASD Formula (Redacted)**:
+>
+> [ ASD = \frac{\sigma_s^2}{\mu_b^2 + \epsilon} ]
+> *(Signal variance over baseline noise floor)*
+
+> **FCI Formula (Redacted)**:
+>
+> [ FCI = \frac{D_r \cdot M_x}{\tau + J_p} ]
+> *(Drift rate × Mandate exceptionality over trust penalty weight)*
+
+---
+
+## 🧾 Portfolio Composition
+
+* **ETFs**: 35% (US Total Market, Developed Ex-US, ESG Blend)
+* **Dividend Stocks**: 25% (Utilities, Energy, Consumer Staples)
+* **REITs**: 20% (Residential, Logistics)
+* **Municipal Bonds**: 20% (Laddered, State-specific)
+
+---
+
+## 🚨 Fiduciary Risk Audit Findings (Q4 2025)
+
+| Segment         | STI Tier | ASD Score | FCI Score | Status             | 
+| --------------- | -------- | --------- | --------- | -------------------|
+| ETFs            | Tier 2   | 0.88      | 1.20      | ✅ Stable          |
+| Dividend Stocks | Tier 1   | 1.12      | 1.10      | ✅ Stable          |
+| Municipal Bonds | Tier 2   | 0.64      | 0.85      | ✅ Stable          |
+ 
+---
+
+## 🛡️ Scroll-Locked Advisory
+
+> “Portfolio integrity confirmed for ETFs, dividend equities, and municipal bonds. REIT exposure must be audited for conflict realignment or reallocation. No drift detected outside REIT segment.”
+
+Signal ID: **SYS2-FINMP-Q4-25**
+Author: **FinanceWise × Grounded DI**
+Distribution: **Audit/Internal Use Only**
+Entropy Floor: **∆H = 0.0049** (Witness Lock)
+
+---
+
+#GroundedDI #MarketWise #FinanceWise #DI2 @groundedDI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Finance doesn't guess. It traces."
